@@ -1,0 +1,19 @@
+.btn{
+    text-decoration: none;
+    border : 3px solid red; 
+    padding: 10px;
+    border-radius: 10px;
+    color:red;;
+}
+.btn:hover{
+    background-color: red;
+    color:pink;
+
+}
+@font-face {
+    font-family: manrope ;
+    src: url('Manrope-VariableFont_wght.ttf');
+}
+body{
+    font-family: manrope;
+}
