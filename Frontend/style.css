@@ -1,13 +1,13 @@
 .btn{
     text-decoration: none;
-    border : 3px solid red; 
+    border : 3px solid rgb(139, 139, 238); 
     padding: 10px;
     border-radius: 10px;
-    color:red;;
+    color:rgb(139, 139, 238);;
 }
 .btn:hover{
-    background-color: red;
-    color:pink;
+    background-color: rgb(139, 139, 238);
+    color:white;
 
 }
 @font-face {
